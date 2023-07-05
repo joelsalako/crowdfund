@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
-//My onfig
+//My config
 const firebaseConfig = {
   apiKey: 'AIzaSyBmDPhE_ILiG0HjlvAXynQWQbMXnZL_Id8',
   authDomain: 'croudfund-app.firebaseapp.com',
